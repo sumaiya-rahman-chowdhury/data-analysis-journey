@@ -16,3 +16,5 @@ describe()          → Check statistics
 isnull().sum()      → Find missing values
 
 duplicated().sum()  → Find duplicate rows
+
+# patter : df.loc[condition, "column_name"] = new_value
