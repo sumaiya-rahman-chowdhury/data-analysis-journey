@@ -1,5 +1,5 @@
+#text cleaning
 import pandas as pd
-
 df = pd.read_csv("data.csv")
 df["City"].unique()
 # to count unique value
