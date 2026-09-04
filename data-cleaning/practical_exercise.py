@@ -39,3 +39,25 @@ print(df[df["Salary"] <= 0])
 
 print("\nCity values:")
 print(df["City"].value_counts())
+
+"""
+Raw Dataset
+     ↓
+Inspect
+     ↓
+Find Missing Values
+     ↓
+Standardize Text
+     ↓
+Fix Data Types
+     ↓
+Detect Invalid Values
+     ↓
+Replace Invalid Values
+     ↓
+Handle Missing Values
+     ↓
+Validate
+     ↓
+Clean Dataset ✅
+"""
